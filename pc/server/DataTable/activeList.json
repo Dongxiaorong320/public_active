@@ -1,0 +1,20 @@
+{
+    "name": "活动列表",
+    "list": [
+        {
+            "categoryId": 1,
+            "name": "及欧凯龙，黄焖鸡",
+            "imagePath": [
+                "blob:http://localhost:8081/8580834e-232b-4584-baf2-6b72c7612275",
+                "blob:http://localhost:8081/6ec5b861-d565-4d0b-8898-c9f7d2571e0b"
+            ],
+            "startDate": "2017-12-18T16:00:00.000Z",
+            "endDate": "2017-12-04T16:00:00.000Z",
+            "locationName": {
+                "provice": "天津市",
+                "city": "天津市",
+                "area": "河西区"
+            }
+        }
+    ]
+}

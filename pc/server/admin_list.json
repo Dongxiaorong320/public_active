@@ -1,0 +1,15 @@
+{
+    "tabel_name": "登录注册",
+    "list": [
+        {
+            "login_user": "123",
+            "login_psw": "123",
+            "anthorization":"admin"
+        },
+        {
+            "login_user": "dxr",
+            "login_psw": "000",
+            "anthorization":"visitor"
+        }
+    ]
+}
